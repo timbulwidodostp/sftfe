@@ -5,3 +5,5 @@ f sftfe.sthlp
 f sftfe_p.ado
 f sftfe_postestimation.shlp
 f lsftfe.mlib
+f lsfcross.mlib
+f lsfpanel.mlib
