@@ -7,3 +7,11 @@ f sftfe_postestimation.shlp
 f lsftfe.mlib
 f lsfcross.mlib
 f lsfpanel.mlib
+f sfcross.ado
+f sfcross.sthlp
+f sfcross_p.ado
+f sfcross_postestimation.sthlp
+f sfpanel.ado
+f sfpanel.sthlp
+f sfpanel_p.ado
+f sfpanel_postestimation.sthlp
