@@ -1,0 +1,25 @@
+d 'SFTFE': Consistent estimation of fixed-effects stochastic frontier models use sftfe With STATA 18
+d
+
+f ghk2.hlp
+f ghk2.mata
+f ghk2version.ado
+f lghk2.mlib
+f lsfcross.mlib
+f lspanel.mlib
+f lsftfe.mlib
+f sfcross.ado
+f sfcross.sthlp
+f sfcross_p.ado
+f sfcross_postestimation.shlp
+f sfpanel.ado
+f sfpanel.sthlp
+f sfpanel_p.ado
+f sfpanel_postestimation.shlp
+f sftfe.ado
+f sftfe.sthlp
+f sftfe_p.ado
+f sftfe_postestimation.shlp
+f sftfe.xlsx
+f sftfe.dta
+f stata.toc
