@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'sftfe': fixed-effects stochastic frontier models estimation
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f sftfe.ado
+f sftfe.sthlp
+f sftfe_p.ado
+f sftfe_postestimation.shlp
+f lsftfe.mlib
