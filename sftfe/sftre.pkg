@@ -1,7 +1,0 @@
-d 'sftfe': fixed-effects stochastic frontier models estimation
-d
-f sftfe.ado
-f sftfe.sthlp
-f sftfe_p.ado
-f sftfe_postestimation.shlp
-f lsftfe.mlib
