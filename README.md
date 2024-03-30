@@ -1,6 +1,8 @@
 # sftfe
 Consistent estimation of fixed-effects stochastic frontier models use sftfe With STATA 18
 
+https://www.youtube.com/watch?v=mzaAXkbMytU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
